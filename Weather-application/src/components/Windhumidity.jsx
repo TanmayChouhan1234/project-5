@@ -1,5 +1,5 @@
 import React from "react";
-import { FaDropbox, FaSun, FaWind } from "react-icons/fa";
+import { FaWind } from "react-icons/fa";
 import { Droplet, Sunrise, Sunset } from "lucide-react";
 
 const Windhumidity = (data) => {
